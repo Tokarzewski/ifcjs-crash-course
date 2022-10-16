@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    margin: 1rem;
+    padding: 0.5rem;
+    border: none;
+    background-color: gainsboro;
+}
+
+button:hover {
+    background-color: rgb(184, 184, 184);
+}
+
+button:active {
+    background-color: rgb(54, 54, 54);
+}

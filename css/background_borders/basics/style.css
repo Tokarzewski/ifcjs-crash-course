@@ -1,0 +1,12 @@
+#first {
+    background-color: tomato;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 6px;
+}
+#second {
+    background-color: tomato;
+    border: 2px solid black;
+    border-radius: 6px;
+}
