@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+}
+
+.sub-header {
+    color: red;
+}
+
+.text {
+    color: orange;
+}
+
+#id-item {
+    color: blue;
+}
+
+.class-example {
+    color: rgb(130, 0, 0);
+}
