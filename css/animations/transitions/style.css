@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    margin: 1rem;
+    padding: 1rem;
+    width: 500px;
+    background-color: cadetblue;
+}
+
+div:hover {
+    transition: all 1s ease-in-out;
+    background-color: rgb(223, 75, 75);
+    border-radius: 2rem;
+}

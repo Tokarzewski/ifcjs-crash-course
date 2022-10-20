@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.box {
+    background-color: white;
+    width: 200px;
+    height: 200px;
+}
+
+.box:hover {
+    transition: all 2s ease-in-out;
+    background: rgb(136, 28, 28);
+    border-radius: 50%;
+    transform: translateY(100px);
+}

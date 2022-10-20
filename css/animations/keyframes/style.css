@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: cadetblue;
+    animation-name: example-animation;
+    animation-duration: 500ms;
+    animation-iteration-count: 10;
+    animation-fill-mode: forwards;
+    animation-timing-function:ease-in-out;
+}
+
+@keyframes example-animation {
+    0% {
+        background-color: cadetblue;
+    }
+    50% {
+        background-color: rgb(112, 184, 94);
+    }
+    100% {
+        background-color: cadetblue;
+    }
+}
