@@ -33,8 +33,8 @@ button:hover {
     color: white;
 }
 
-.docs-link {
-    z-index: 1;
+.go-back {
+    z-index: 0;
     position: absolute;
     right: 0;
     margin: 0.5rem;
