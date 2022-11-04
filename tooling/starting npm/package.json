@@ -1,0 +1,26 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "This is an example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokarzewski/ifcjs-crash-course.git"
+  },
+  "keywords": [
+    "ifc",
+    "js"
+  ],
+  "author": "Bartlomiej Tokarzewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tokarzewski/ifcjs-crash-course/issues"
+  },
+  "homepage": "https://github.com/Tokarzewski/ifcjs-crash-course#readme",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
